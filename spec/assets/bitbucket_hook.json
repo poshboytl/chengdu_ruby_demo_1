@@ -1,0 +1,29 @@
+{
+    "canon_url": "https://bitbucket.org",
+    "commits": [
+        {
+            "author": "poshboytl",
+            "branch": "master",
+            "message": "#58 Added some more things to xman.rb",
+            "raw_author": "Terry Tai <poshboytl@gmail.com>",
+            "raw_node": "620ade18607ac42d872b568bb92acaa9a28620e9"
+        },
+        {
+            "author": "poshboytl",
+            "branch": "master",
+            "message": "#59 Added some more things to xman.rb",
+            "raw_author": "Superman <superman@super.man>",
+            "raw_node": "620ade18607ac42d872b568bb92acaa9a28620e9"
+        }
+    ],
+    "repository": {
+        "absolute_url": "/poshboytl/xman/",
+        "is_private": true,
+        "name": "X-Man",
+        "owner": "poshboytl",
+        "scm": "git",
+        "slug": "x-man",
+        "website": "god.com"
+    },
+    "user": "poshboytl"
+}

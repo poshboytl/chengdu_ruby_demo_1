@@ -1,0 +1,27 @@
+{
+  "repository": {
+    "url": "https://github.com/poshboytl/railscastcn_1_blog",
+    "name": "github",
+    "description": "You're lookin' at it."
+  },
+  "commits": [
+    {
+      "id": "6baeac10eae2f5fd136c5a3d557e07989f82ba3c",
+      "url": "https://github.com/poshboytl/railscastcn_1_blog/commit/6baeac10eae2f5fd136c5a3d557e07989f82ba3c",
+      "author": {
+        "email": "poshboytl@gmail.com",
+        "name": "Terry Tai"
+      },
+      "message": "Update the Gemfile"
+    },
+    {
+      "id": "0c9d5b55c82917dd44e9d883343d0afb4f7b8959",
+      "url": "https://github.com/poshboytl/railscastcn_1_blog/commit/0c9d5b55c82917dd44e9d883343d0afb4f7b8959",
+      "author": {
+        "email": "poshboytl@gmail.com",
+        "name": "Terry Tai"
+      },
+      "message": "Carrierwave epsode."
+    }
+  ]
+}
